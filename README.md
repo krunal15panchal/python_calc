@@ -2,7 +2,7 @@
 
 Calculator using python pyQt
 
-MVC Design Pattern (Model--View--Control design)
+MVC Design Pattern (Model--View--Controller design)
 
 STEPS:
 
@@ -33,5 +33,12 @@ Create a file view.py to create GUI for the calculator:
 	from PyQt5.QtWidgets import QPushButton
 	from PyQt5.QtWidgets import QVBoxLayout
 
+Create Controller
 
+Create a file control.py for the control flow 
+
+Create Model for the calculator
+
+run main.py to see the results.
+	
 	
