@@ -1,4 +1,5 @@
 # python_calc
+# awesome work brother.
 
 Calculator using python pyQt
 
